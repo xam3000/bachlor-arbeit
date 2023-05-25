@@ -1,0 +1,9 @@
+aufTAKTCl.exe
+*.sfk
+.vscode/launch.json
+data/.vscode/settings.json
+.ipynb_checkpoints/
+*.mp4
+windows/
+*.mov
+*.avi
